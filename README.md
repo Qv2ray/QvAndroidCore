@@ -2,6 +2,8 @@
 
 ## Features
 
+- VpnService
+
 ## Structure
 
 ## Integration with Qv2ray
